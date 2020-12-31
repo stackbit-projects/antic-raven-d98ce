@@ -10,7 +10,7 @@ palette: blue
 header:
   title: Antic Raven
   tagline: Header Tagline
-  profile_img: images/avatar.png
+  profile_img: images/sylo-space-logo-gradient.svg
   background: dark
   has_nav: true
   nav_links:
